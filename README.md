@@ -82,7 +82,7 @@ A professionally designed Google Slides presentation summarizing the complete ex
 
 ### 🔗 Presentation
 
-👉 **[Open Google Slides Presentation](https://docs.google.com/presentation/d/1uahgr7v-ish2coDXEaw5IWRX2_ptLXJqRn5H4Rgry34/edit?slide=id.g3fa5be55661_0_2#slide=id.g3fa5be55661_0_2)**
+👉 **[Open Google Slides Presentation](https://docs.google.com/presentation/d/1uahgr7v-ish2coDXEaw5IWRX2_ptLXJqRn5H4Rgry34/edit?usp=sharing)**
 
 ---
 
@@ -102,7 +102,7 @@ A Google Sheets workbook created to organize and monitor projected travel expens
 
 ### 🔗 Budget
 
-👉 **[Open Google Sheets Budget](https://docs.google.com/spreadsheets/d/10ALrQo_jXzvCuljzhTcMUcuHMTGlUbcvh-sk6jkAq2I/edit?gid=1251008447#gid=1251008447)**
+👉 **[Open Google Sheets Budget](https://docs.google.com/spreadsheets/d/10ALrQo_jXzvCuljzhTcMUcuHMTGlUbcvh-sk6jkAq2I/edit?usp=sharing)**
 
 ---
 
@@ -124,7 +124,7 @@ A detailed Google Docs document containing the planning and documentation behind
 
 ### 🔗 Report
 
-👉 **[Open Google Docs Report](https://docs.google.com/document/d/1KLyHYLj5AGR6YqL08j_9VVmSjXsefbJD4HY2BvM8JvM/edit?tab=t.0#heading=h.119lorb0jmfo)**
+👉 **[Open Google Docs Report](https://docs.google.com/document/d/1KLyHYLj5AGR6YqL08j_9VVmSjXsefbJD4HY2BvM8JvM/edit?usp=sharing)**
 
 ---
 
@@ -140,7 +140,7 @@ The calendar organizes important travel activities, meetings, transportation and
 
 ### 🔗 Calendar
 
-👉 **[Open Google Calendar Schedule](https://calendar.google.com/calendar/u/0/r/month/2026/5/10)**
+👉 **[Open Google Calendar Schedule](https://calendar.google.com/calendar/embed?src=a2c82f0e5dbf762a7ce0e5dca1a7a3fc0f18663e446c72e656cbaa006116c4e8%40group.calendar.google.com&ctz=Africa%2FLagos)**
 
 ---
 
