@@ -1,185 +1,153 @@
-# 🌍 Executive Global Business Travel Plan
+# 🌍 Executive Global Business Travel Operations System
 
-### Virtual Assistant & Project Management Portfolio Project
+> **Executive Travel Planning • Virtual Assistance • Google Workspace • Automation • Project Coordination**
 
-> A complete executive business travel planning project demonstrating Virtual Assistance, Project Management, Research, Budgeting, Scheduling, Documentation, and Google Workspace skills.
+A professional virtual-assistance portfolio project built around an executive multi-continent business travel plan for **10 May–31 May 2026**, covering **Lagos → London → Dubai → New York → Lagos**.
 
----
+## 🎯 Project Overview
 
-## 📌 Project Overview
+This project demonstrates how an executive travel requirement can be organized into a coordinated digital workflow covering:
 
-This project demonstrates how a **Virtual Assistant** can plan, organize, coordinate, and document an executive's international business trip from start to finish.
+- ✈️ Flight itinerary planning
+- 🏨 Executive accommodation planning
+- 📅 Calendar and meeting coordination
+- 💰 Budget tracking
+- 📄 Executive documentation
+- ⚠️ Risk identification and mitigation
+- 🔔 Travel and meeting reminders
+- ☁️ Google Workspace organization
 
-The project was developed as a practical simulation of an **Executive Global Business Travel Management assignment**, covering:
+The original presentation identifies three professional objectives: expanding relationships, improving market visibility, and supporting negotiations.
 
-- ✈️ International travel planning
-- 🏨 Accommodation research
-- 📅 Calendar and itinerary management
-- 💰 Travel budget preparation
-- 📊 Expense planning
-- 📄 Professional documentation
-- 🔎 Travel and destination research
-- 🤝 Business meeting scheduling
-- 🗓️ Daily activity planning
-- ☁️ Google Workspace management
+## 🗺️ Travel Plan
 
-The completed project brings together **Google Slides, Google Sheets, Google Docs, and Google Calendar** into one centralized executive travel management system.
-
----
-
-## 🎯 Project Objective
-
-The main objective of this project was to create a professional, organized, and practical travel management system for an executive traveling internationally for business.
-
-The project was designed to ensure that:
-
-1. Travel activities are properly scheduled.
-2. The executive has access to a clear itinerary.
-3. Travel expenses are planned and organized.
-4. Meetings and activities are properly coordinated.
-5. Supporting documentation is easily accessible.
-6. The entire project can be presented professionally to a client, employer, or stakeholder.
-
----
-
-# 🧰 Tools Used
-
-| Tool | Purpose |
+| Destination | Business Area |
 |---|---|
-| 🎞️ Google Slides | Executive travel presentation |
-| 📊 Google Sheets | Travel budget and financial planning |
-| 📄 Google Docs | Detailed travel report |
-| 📅 Google Calendar | Travel itinerary and scheduling |
-| 🐙 GitHub | Project portfolio and documentation |
-| 🎨 Canva | Visual design and supporting assets |
-| 📋 Project Management Tools | Task and workflow organization |
+| 🇬🇧 London | Canary Wharf |
+| 🇦🇪 Dubai | DIFC District |
+| 🇺🇸 New York | Wall Street |
 
----
+The presentation also includes a weekly strategic cycle covering arrival/recovery, primary meetings, networking/city engagement, and preparation for the next travel leg.
 
-# 🚀 Project Deliverables
+## ✈️ Flight Itinerary
 
-## 🎞️ 1. Executive Travel Presentation
+| Route | Airline | Departure | Arrival | Cost |
+|---|---|---:|---:|---:|
+| Lagos → London | British Airways | 10:50 PM | 05:25 AM | ₦1,200,000 |
+| London → Dubai | Emirates | 10:00 AM | 08:00 PM | ₦900,000 |
+| Dubai → New York | Emirates | 09:00 AM | 03:00 PM | ₦1,500,000 |
+| New York → Lagos | Delta Airlines | 08:00 PM | 12:00 PM | ₦1,400,000 |
 
-The main presentation was created using **Google Slides**.
+**Grand Total Budget: ₦14,270,000**
 
-It provides a visual overview of the complete travel plan, itinerary, destinations, travel arrangements, budget, schedule, and supporting information.
-
-### 🔗 Open Presentation
-
-👉 [**View Executive Travel Presentation →**](https://docs.google.com/presentation/d/1uahgr7v-ish2coDXEaw5IWRX2_ptLXJqRn5H4Rgry34/edit?slide=id.g3fa5be55661_0_2#slide=id.g3fa5be55661_0_2)
-
----
-
-## 💰 2. Travel Budget
-
-A detailed travel budget was created using **Google Sheets**.
-
-The budget organizes the projected financial requirements associated with the executive's trip.
-
-### 🔗 Open Budget
-
-👉 [**View Travel Budget – Google Sheets →**](https://docs.google.com/spreadsheets/d/10ALrQo_jXzvCuljzhTcMUcuHMTGlUbcvh-sk6jkAq2I/edit?gid=1251008447#gid=1251008447)
-
-### Budget Covers
-
-- ✈️ Flights
-- 🏨 Accommodation
-- 🚕 Transportation
-- 🍽️ Meals
-- 💼 Business expenses
-- 🎟️ Activities and events
-- 💳 Miscellaneous expenses
-- 📊 Overall projected expenditure
-
----
-
-## 📄 3. Executive Travel Report
-
-A detailed professional report was created using **Google Docs**.
-
-The report provides the written documentation supporting the travel plan and explains the decisions, itinerary, arrangements, and recommendations associated with the project.
-
-### 🔗 Open Report
-
-👉 [**View Executive Travel Report – Google Docs →**](https://docs.google.com/document/d/1KLyHYLj5AGR6YqL08j_9VVmSjXsefbJD4HY2BvM8JvM/edit?tab=t.0#heading=h.119lorb0jmfo)
-
-### Report Covers
-
-- Executive summary
-- Travel objectives
-- Destination information
-- Travel itinerary
-- Accommodation information
-- Transportation arrangements
-- Meeting schedule
-- Budget overview
-- Risk considerations
-- Recommendations
-- Conclusion
-
----
-
-## 📅 4. Executive Travel Calendar
-
-The complete travel schedule was organized using **Google Calendar**.
-
-The calendar provides a visual timeline of the executive's travel activities, meetings, transportation, accommodation, and other scheduled events.
-
-### 🔗 Open Calendar
-
-👉 [**View Executive Travel Calendar →**](https://calendar.google.com/calendar/u/0/r/month/2026/5/10)
-
-### Calendar Covers
-
-- ✈️ Flight schedules
-- 🏨 Hotel check-in and check-out
-- 🤝 Business meetings
-- 📍 Business visits
-- 🍽️ Business meals
-- 🗓️ Planned activities
-- 🚕 Transportation periods
-- 🛫 Departure and arrival schedules
-
----
-
-# 🔗 Quick Access
-
-| Deliverable | Platform | Access |
-|---|---|---|
-| 🎞️ Presentation | Google Slides | [**View Presentation**](https://docs.google.com/presentation/d/1uahgr7v-ish2coDXEaw5IWRX2_ptLXJqRn5H4Rgry34/edit?slide=id.g3fa5be55661_0_2#slide=id.g3fa5be55661_0_2) |
-| 💰 Budget | Google Sheets | [**View Budget**](https://docs.google.com/spreadsheets/d/10ALrQo_jXzvCuljzhTcMUcuHMTGlUbcvh-sk6jkAq2I/edit?gid=1251008447#gid=1251008447) |
-| 📄 Report | Google Docs | [**View Report**](https://docs.google.com/document/d/1KLyHYLj5AGR6YqL08j_9VVmSjXsefbJD4HY2BvM8JvM/edit?tab=t.0#heading=h.119lorb0jmfo) |
-| 📅 Calendar | Google Calendar | [**View Calendar**](https://calendar.google.com/calendar/u/0/r/month/2026/5/10) |
-
----
-
-# 🔄 Project Workflow
+## ⚙️ Google Workspace Workflow
 
 ```text
-                    PROJECT BRIEF
-                         │
-                         ▼
-                REQUIREMENTS ANALYSIS
-                         │
-                         ▼
-                  TRAVEL RESEARCH
-                         │
-                         ▼
-             DESTINATION & HOTEL RESEARCH
-                         │
-                         ▼
-                ITINERARY DEVELOPMENT
-                         │
-              ┌──────────┼──────────┐
-              ▼          ▼          ▼
-           BUDGET     CALENDAR     REPORT
-              │          │           │
-              └──────────┼───────────┘
-                         ▼
-                    GOOGLE SLIDES
-                         │
-                         ▼
-                  FINAL PRESENTATION
-                         │
-                         ▼
-                   GITHUB PORTFOLIO
+Executive Travel Requirement
+            ↓
+      Google Sheets
+   Budget + Trip Tracking
+            ↓
+     Google Calendar
+ Flights + Meetings + Alerts
+            ↓
+     Google Apps Script
+     Automation Layer
+       ↙          ↘
+    Gmail        Reminders
+ Notifications    & Alerts
+            ↓
+      Executive Support
+```
+
+### Automation concept
+
+The project specification calls for:
+
+- Calendar synchronization for flights, check-ins and meeting alerts
+- Time-zone-aware scheduling
+- Gmail reminders at 24h before travel, 3h before flights and 1h before meetings
+- Google Sheets-based budget tracking
+
+The `automation/` folder contains a **starter implementation** of this workflow. It is intentionally separated from the presentation so the repository distinguishes the original project from the automation layer added for the portfolio.
+
+## ⚠️ Risk Management
+
+| Risk | Planned Mitigation |
+|---|---|
+| Flight delays | 3-hour airport arrival buffer and itinerary padding |
+| Currency fluctuation | ₦500,000 contingency and early fund conversion |
+| Jet lag / fatigue | Recovery windows |
+| Health & safety | International insurance and executive chauffeur |
+
+## 🧰 Tools & Skills
+
+**Virtual Assistance**
+- Executive travel coordination
+- Calendar management
+- Meeting coordination
+- Documentation
+- Administrative planning
+
+**Automation**
+- Google Apps Script
+- Google Calendar
+- Gmail notifications
+- Google Sheets workflows
+
+**Data & Reporting**
+- Budget tracking
+- Spreadsheet organization
+- Executive reporting
+
+**Project Management**
+- Itinerary planning
+- Risk management
+- Resource coordination
+- Timeline management
+
+## 📂 Repository Structure
+
+```text
+executive-global-business-travel/
+├── README.md
+├── presentation/
+│   └── Executive-Global-Business-Travel-Plan.pptx
+├── automation/
+│   ├── calendar-automation.gs
+│   ├── email-notifications.gs
+│   └── README.md
+├── data/
+│   └── travel-budget-template.csv
+├── documentation/
+├── screenshots/
+└── assets/
+```
+
+## 🔗 Live Google Workspace Resources
+
+> **Important:** Set your Google Calendar, Sheets and Docs permissions to the level you are comfortable exposing publicly before publishing these links.
+
+- 📅 [Google Calendar](https://calendar.google.com/calendar/u/0/r/month/2026/5/10)
+- 📊 [Budget Breakdown](https://docs.google.com/spreadsheets/d/10ALrQo_jXzvCuljzhTcMUcuHMTGlUbcvh-sk6jkAq2I/edit)
+- 📄 [Executive Report](https://docs.google.com/document/d/1KLyHYLj5AGR6YqL08j_9VVmSjXsefbJD4HY2BvM8JvM/edit?tab=t.0)
+
+## 🚀 Future Improvements
+
+- Add a Google Form for executive travel requests
+- Automatically create Calendar events from approved spreadsheet rows
+- Add automated itinerary-change notifications
+- Add budget variance alerts
+- Build a travel KPI dashboard
+- Add approval/status tracking
+- Add GitHub Actions for repository quality checks
+
+## 👤 Author
+
+**Afolabi Wilson**
+
+Data Analyst • Project Manager • Virtual Assistant
+
+---
+
+*Portfolio project based on the Executive Global Business Travel Plan presentation.*
